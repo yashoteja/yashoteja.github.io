@@ -1,0 +1,27 @@
+# jemdoc: menu{menu}{code.html}, addcss{css/jemdoc.css}, notime
+= Code
+
+== Please read before downloading
+
+- Please thoroughly read the terms and conditions in the License and agree to them before using the code.
+- If you use this code in your research, please cite the relevant publications given along with the links.
+- I would be happy to receive comments, feedback on the code, as well as the underlying methods.
+
+== Research Code
+
+. *Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising*,\n
+	Yashoteja Prabhu, Anil Kag, Shrutendra Harsola, Rahul Agrawal, and Manik Varma,\n
+	The Web Conference (*WWW*), 2018.\n
+	[code/Parabel_zip.html \[code\]]
+. *Extreme Multi-label Learning with Label Features for Warm-Start Tagging, Ranking and Recommendation*,\n
+	Yashoteja Prabhu, Anil Kag, Shilpa Gopinath, Shrutendra Harsola, Rahul Agrawal, and Manik Varma,\n
+	International Conference on Web Search and Data Mining (*WSDM*), 2018.\n
+	[code/SwiftXML.zip \[code\]]
+. *Extreme Multi-label Loss Functions for Recommendation, Tagging, Ranking and Other Missing Label Applications*,\n
+	Himanshu Jain, Yashoteja Prabhu, and Manik Varma,\n
+	ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD*), 2016.\n
+	[http://manikvarma.org/code/PfastreXML/download.html \[code\]]
+. *FastXML: A Fast, Accurate and Stable Tree-classiﬁer for eXtreme Multi-label Learning*,\n
+	Yashoteja Prabhu, and Manik Varma,\n
+	ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD*), 2014.\n
+	[http://manikvarma.org/code/FastXML/download.html \[code\]]
