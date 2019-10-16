@@ -1,6 +1,10 @@
 # jemdoc: menu{menu}{articles.html}, addcss{css/jemdoc.css}, notime
 = Articles
 
+. *Extreme Regression for Dynamic Search Advertising*,\n
+	Yashoteja Prabhu, Aditya Kusupati, Nilesh Gupta, and Manik Varma,\n
+	International Conference on Web Search and Data Mining (*WSDM*), 2020.\n
+	[papers/XReg.txt paper pdf]
 . *Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising*,\n
 	Yashoteja Prabhu, Anil Kag, Shrutendra Harsola, Rahul Agrawal, and Manik Varma,\n
 	The Web Conference (*WWW*), 2018.\n

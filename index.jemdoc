@@ -21,8 +21,10 @@ Ph.D. Student\n
 	My CV is available [CV.pdf here].
 
 == News
-- \[/22 December 2017/\] {{<font color="red">[New]</font>}} Paper accepted for presentation at [https://www2018.thewebconf.org/ WWW 2018]. The paper describes a new extreme classification algorithm, called Parabel, which achieves almost the same accuracy as the state-of-the-art 1-vs-All classifiers but is more than 1,000x and 10,000x faster during training and prediction respectively. The paper also demonstrates that Parabel significantly improves performance on the real world application of dynamic search advertising on Bing. Preprints available [articles.html here].
+- \[/10 October 2019/\] {{<font color="red">[New]</font>}} Paper on Extreme Regressionaccepted for presentation at [http://www.wsdm-conference.org/2020/ WSDM 2020]. Preprint available [articles.html here].
 
-- \[/23 October 2017/\] {{<font color="red">[New]</font>}} Paper accepted for presentation at [www.wsdm-conference.org/2018/ WSDM 2018]. The paper develops SwiftXML - a novel extreme classification algorithm for making accurate and scalable predictions on warm start tagging, recommendation and sponsored search advertising applications. Preprints available [articles.html here].
+- \[/22 December 2017/\] {{<font color="red">[New]</font>}} Paper accepted for presentation at [https://www2018.thewebconf.org/ WWW 2018]. The paper describes a new extreme classification algorithm, called Parabel, which achieves almost the same accuracy as the state-of-the-art 1-vs-All classifiers but is more than 1,000x and 10,000x faster during training and prediction respectively. The paper also demonstrates that Parabel significantly improves performance on the real world application of dynamic search advertising on Bing. Pdf available [articles.html here].
+
+- \[/23 October 2017/\] {{<font color="red">[New]</font>}} Paper accepted for presentation at [http://www.wsdm-conference.org/2018/ WSDM 2018]. The paper develops SwiftXML - a novel extreme classification algorithm for making accurate and scalable predictions on warm start tagging, recommendation and sponsored search advertising applications. Pdf available [articles.html here].
 
 ### OLD COMMENTS ###
