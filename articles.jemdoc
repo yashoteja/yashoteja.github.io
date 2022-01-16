@@ -1,31 +1,35 @@
 # jemdoc: menu{menu}{articles.html}, addcss{css/jemdoc.css}, notime
 = Articles
 
+. *Generalized Zero-Shot Extreme Multi-label Learning*,\n
+	Nilesh Gupta, Sakina Bohra, Yashoteja Prabhu, Saurabh Purohit and Manik Varma,\n
+	ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD*), 2021.\n
+	[papers/ZestXML.pdf paper pdf]| | [papers/ZestXML_supp.pdf supplementary pdf]
 . *Extreme Regression for Dynamic Search Advertising*,\n
-	Yashoteja Prabhu, Aditya Kusupati, Nilesh Gupta, and Manik Varma,\n
+	Yashoteja Prabhu, Aditya Kusupati, Nilesh Gupta and Manik Varma,\n
 	International Conference on Web Search and Data Mining (*WSDM*), 2020.\n
 	[papers/XReg.pdf paper pdf]
 . *Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising*,\n
-	Yashoteja Prabhu, Anil Kag, Shrutendra Harsola, Rahul Agrawal, and Manik Varma,\n
+	Yashoteja Prabhu, Anil Kag, Shrutendra Harsola, Rahul Agrawal and Manik Varma,\n
 	The Web Conference (*WWW*), 2018.\n
 	[papers/Parabel.pdf paper pdf] | [papers/Parabel_supp.pdf supplementary pdf]
 . *Extreme Multi-label Learning with Label Features for Warm-Start Tagging, Ranking and Recommendation*,\n
-	Yashoteja Prabhu, Anil Kag, Shilpa Gopinath, Kunal Dahiya, Shrutendra Harsola, Rahul Agrawal, and Manik Varma,\n
+	Yashoteja Prabhu, Anil Kag, Shilpa Gopinath, Kunal Dahiya, Shrutendra Harsola, Rahul Agrawal and Manik Varma,\n
 	International Conference on Web Search and Data Mining (*WSDM*), 2018.\n
 	[papers/SwiftXML.pdf paper pdf] | [papers/SwiftXML_supp.pdf supplementary pdf]
 . *Extreme Multi-label Loss Functions for Recommendation, Tagging, Ranking and Other Missing Label Applications*,\n
-	Himanshu Jain, Yashoteja Prabhu, and Manik Varma,\n
+	Himanshu Jain, Yashoteja Prabhu and Manik Varma,\n
 	ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD*), 2016.\n
 	[papers/PfastreXML.pdf paper pdf] | [papers/PfastreXML_supp.pdf supplementary pdf] | [posters/PfastreXML.pdf poster pdf]
 . *FastXML: A Fast, Accurate and Stable Tree-classiﬁer for eXtreme Multi-label Learning*,\n
-	Yashoteja Prabhu, and Manik Varma,\n
+	Yashoteja Prabhu and Manik Varma,\n
 	ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD*), 2014.\n
 	[papers/FastXML.pdf paper pdf] | [posters/FastXML.pdf poster pdf]
 . *Multi-Label Learning with Millions of Labels: Recommending Advertiser Bid Phrases for Web Pages*,\n
-	Rahul Agrawal, Archit Gupta, Yashoteja Prabhu, and Manik Varma,\n
+	Rahul Agrawal, Archit Gupta, Yashoteja Prabhu and Manik Varma,\n
 	The Web Conference (*WWW*), 2013.\n
 	[papers/MLRF.pdf paper pdf]
 . *Resolving Occlusion in Multiframe Reconstruction of Deformable Surfaces*,\n
-	Appu Shaji, Aydin Varol, Pascal Fua, Yashoteja Prabhu, Ankush Jain, and Sharat Chandran,\n
+	Appu Shaji, Aydin Varol, Pascal Fua, Yashoteja Prabhu, Ankush Jain and Sharat Chandran,\n
 	Computer Vision and Pattern Recognition Workshops (*CVPRW*), 2011.\n
 	[http://ieeexplore.ieee.org/document/5981724/ paper link]

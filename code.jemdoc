@@ -9,6 +9,10 @@
 
 == Research Code
 
+. *Extreme Regression for Dynamic Search Advertising*,\n
+	Yashoteja Prabhu, Aditya Kusupati, Nilesh Gupta and Manik Varma,\n
+	ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD*), 2020.\n
+	[https://github.com/yashoteja/XReg \[code\]]
 . *Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising*,\n
 	Yashoteja Prabhu, Anil Kag, Shrutendra Harsola, Rahul Agrawal, and Manik Varma,\n
 	The Web Conference (*WWW*), 2018.\n

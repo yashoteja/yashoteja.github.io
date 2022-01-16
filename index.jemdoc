@@ -12,7 +12,7 @@ Ph.D. Student\n
 
 \n
 
-	I am a fifth year PhD student in the Computer Science and Engineering department of IIT Delhi. I am advised by [http://manikvarma.org Dr. Manik Varma]. My primary research area is [http://manikvarma.org/downloads/XC/XMLRepository.html Extreme Multi-Label Classification], which is a sub-field of machine learning. I have designed and implemented several state-of-the-art extreme classification algorithms which can be useful in a wide range of web applications such as large-scale image classification, web-page tagging, product recommendation, computational advertising, and so on.
+	I am a PhD student in the Computer Science and Engineering department of IIT Delhi. I am advised by [http://manikvarma.org Dr. Manik Varma]. My primary research area is [http://manikvarma.org/downloads/XC/XMLRepository.html Extreme Multi-Label Classification], which is a sub-field of machine learning. I have designed and implemented several state-of-the-art extreme classification algorithms which can be useful in a wide range of web applications such as large-scale image classification, web-page tagging, product recommendation, computational advertising, and so on.
 
 	[http://manikvarma.org/downloads/XC/XMLRepository.html The Extreme Classification Repository] is a one-stop resource center for extreme classification researchers. It provides datasets, code for baseline algorithms, benchmark results, information about evaluation metrics, and many more useful stuff.
 
@@ -21,10 +21,8 @@ Ph.D. Student\n
 	My CV is available [CV.pdf here].
 
 == News
-- \[/10 October 2019/\] {{<font color="red">[New]</font>}} Paper on Extreme Regressionaccepted for presentation at [http://www.wsdm-conference.org/2020/ WSDM 2020]. Preprint available [articles.html here].
+- \[/16 May 2021/\] {{<font color="red">[New]</font>}} Paper accepted for presentation at [https://kdd.org/kdd2021/ KDD 2021]. Paper available [articles.html here].
 
-- \[/22 December 2017/\] {{<font color="red">[New]</font>}} Paper accepted for presentation at [https://www2018.thewebconf.org/ WWW 2018]. The paper describes a new extreme classification algorithm, called Parabel, which achieves almost the same accuracy as the state-of-the-art 1-vs-All classifiers but is more than 1,000x and 10,000x faster during training and prediction respectively. The paper also demonstrates that Parabel significantly improves performance on the real world application of dynamic search advertising on Bing. Pdf available [articles.html here].
-
-- \[/23 October 2017/\] {{<font color="red">[New]</font>}} Paper accepted for presentation at [http://www.wsdm-conference.org/2018/ WSDM 2018]. The paper develops SwiftXML - a novel extreme classification algorithm for making accurate and scalable predictions on warm start tagging, recommendation and sponsored search advertising applications. Pdf available [articles.html here].
+- \[/10 October 2019/\] {{<font color="red">[New]</font>}} Paper accepted for presentation at [http://www.wsdm-conference.org/2020/ WSDM 2020]. Paper available [articles.html here].
 
 ### OLD COMMENTS ###
